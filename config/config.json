@@ -1,0 +1,9 @@
+{
+  "indexes": {
+    "FTSE MIB": "FTSEMIB.MI",
+    "Dow Jones": "%5EDJI",
+    "NASDAQ": "%5EIXIC",
+    "Nikkei 225": "%5EN225",
+    "HANG SENG INDEX": "%5EHSI"
+  }
+}
